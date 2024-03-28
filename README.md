@@ -1,4 +1,4 @@
-# Crime-Data-Analysis
+# LAPD Crime-Data-Analysis (2020 to 2024)
 
 # Introduction
 In this project, analysis of the LAPD Crime data spanning from 2020 to 2024 is conducted using pyspark. The selection of this dataset is based on its significance in comprehending and potentially mitigating crime-related issues in Los Angeles. By employing big data analytics, our objective is to unveil insights, patterns, and trends within the data to facilitate informed decision-making and proactive measures in law enforcement and public safety.
